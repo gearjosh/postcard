@@ -1,0 +1,17 @@
+.postcard {
+  border: #000 2px solid;
+  outline: #E8210C 3px dashed;
+  padding: 3%;
+  font-family: monospace;
+}
+
+.postcard p {
+  font-size: 16px;
+  line-height: 17px;
+}
+
+.postcard h3 {
+  font-family: Garamond;
+  transform: skewx(-20deg);
+  transform: skewy(-3deg);
+}
